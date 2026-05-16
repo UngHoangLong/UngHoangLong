@@ -25,12 +25,24 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UngHoangLong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UngHoangLong&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=UngHoangLong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=UngHoangLong&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UngHoangLong&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,postgres,redis,aws,git,linux&perline=11" />
+  <br/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </div>
 
 <br/>
