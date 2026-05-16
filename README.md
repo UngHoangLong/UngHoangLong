@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+Engineer;Always+learning%2C+always+building";  alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;Always+learning%2C+always+building" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -31,6 +31,12 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UngHoangLong&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UngHoangLong&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <br/>
