@@ -4,8 +4,16 @@
   <img width="100%" src="https://github.com/user-attachments/assets/8468d735-f960-4e94-9908-15e784481fd1" />
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="60" />
+  &nbsp;
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Ung%20Hoang%20Long&fontColor=E879F9&fontSize=58&fontFamily=Great+Vibes&animation=fadeIn&stroke=A855F7&strokeWidth=1" height="80" width="370" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="60" />
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+Engineer;Always+learning%2C+always+building";  alt="Typing SVG" />
 </div>
 
 <br/>
